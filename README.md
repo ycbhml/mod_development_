@@ -1,2 +1,2 @@
-# ycbhml-3dmigoto_mod_development
+#3dmigoto_mod_development
 Genshin 3dmigoto mod 
