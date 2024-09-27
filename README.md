@@ -1,2 +1,3 @@
 #3dmigoto_mod_development
-Genshin 3dmigoto mod 
+
+原神 3dmigoto插件的 mod 制作相关储藏库
