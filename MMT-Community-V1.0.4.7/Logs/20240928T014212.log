@@ -1,0 +1,261 @@
+2024-09-28 01:42:12,176 INFO [default] Running : C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\MMT.exe
+2024-09-28 01:42:12,176 INFO [default] Running in Release mode.
+2024-09-28 01:42:12,176 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,176 INFO [default] ApplicationLocation: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7
+2024-09-28 01:42:12,177 INFO [default] Start to initialize global config:
+2024-09-28 01:42:12,177 INFO [default] Start to read from Main.json:
+2024-09-28 01:42:12,177 INFO [default] Main.json Path:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Configs\Main.json
+2024-09-28 01:42:12,177 INFO [default] GameName:GI
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,177 INFO [default] GameTypeFileNameList size: 4
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,177 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIBody.json
+2024-09-28 01:42:12,177 INFO [default] Category:Blend DrawCategory:Position
+2024-09-28 01:42:12,177 INFO [default] Category:Position DrawCategory:Position
+2024-09-28 01:42:12,177 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,177 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObject.json
+2024-09-28 01:42:12,177 INFO [default] Category:Position DrawCategory:Position
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,177 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectFloor.json
+2024-09-28 01:42:12,177 INFO [default] Category:Position DrawCategory:Position
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,177 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectIB.json
+2024-09-28 01:42:12,177 INFO [default] Category:Position DrawCategory:Position
+2024-09-28 01:42:12,177 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-28 01:42:12,177 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,178 INFO [default] OutputFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\
+2024-09-28 01:42:12,178 INFO [default] LoaderFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\
+2024-09-28 01:42:12,178 INFO [default] FrameAnalyseFolder:FrameAnalysis-2024-09-28-013813
+2024-09-28 01:42:12,178 INFO [default] WorkFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\
+2024-09-28 01:42:12,178 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,178 INFO [default] Start to read config for DrawIB:0569c3b0
+2024-09-28 01:42:12,178 INFO [default] GameType:GIBody
+2024-09-28 01:42:12,178 INFO [default] SwitchKey:
+2024-09-28 01:42:12,178 INFO [default] TangentAlgorithm:
+2024-09-28 01:42:12,178 INFO [default] ColorAlgorithm:
+2024-09-28 01:42:12,178 INFO [default] ColorMap:
+2024-09-28 01:42:12,178 INFO [default] Color: rgb_a  value: default
+2024-09-28 01:42:12,178 INFO [default] Color: rgb_r  value: default
+2024-09-28 01:42:12,178 INFO [default] Color: rgb_b  value: default
+2024-09-28 01:42:12,178 INFO [default] Color: rgb_g  value: default
+2024-09-28 01:42:12,178 INFO [default] TextureDict:
+2024-09-28 01:42:12,178 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,178 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\0569c3b0\tmp.json
+2024-09-28 01:42:12,178 INFO [default] Read config for every DrawIB success.
+2024-09-28 01:42:12,178 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,178 INFO [default] Running Command: mergeReverse
+2024-09-28 01:42:12,178 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:12,178 INFO [default] GameType: GIBody
+2024-09-28 01:42:12,190 INFO [default] Processing pointlist: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000001-vb0=0569d4f0-vs=653c63ba4a73ca8b.txt
+2024-09-28 01:42:12,191 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-28 01:42:12,191 INFO [default] VertexCount: 380000
+2024-09-28 01:42:12,257 INFO [default] Processing ib file: 000003-ib=0569c3b0-vs=7015f9024671ecb2-ps=806063dc66a595a5.txt
+2024-09-28 01:42:12,258 INFO [default] Processing trianglelist: 000003-vb0=7404bef0-vs=7015f9024671ecb2-ps=806063dc66a595a5.txt
+2024-09-28 01:42:12,323 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:12,325 INFO [default] VertexCount: 38927
+2024-09-28 01:42:12,325 INFO [default] Set trianglelist max vertex count to: 38927
+2024-09-28 01:42:12,389 INFO [default] Processing ib file: 000004-ib=0569c3b0-vs=7015f9024671ecb2-ps=806063dc66a595a5.txt
+2024-09-28 01:42:12,390 INFO [default] Processing trianglelist: 000004-vb0=7404bef0-vs=7015f9024671ecb2-ps=806063dc66a595a5.txt
+2024-09-28 01:42:12,454 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:12,455 INFO [default] VertexCount: 38927
+2024-09-28 01:42:12,712 INFO [default] Processing ib file: 000031-ib=0569c3b0-vs=b944892704572eee-ps=3b53b9fb72da250f.txt
+2024-09-28 01:42:12,713 INFO [default] Processing trianglelist: 000031-vb0=7404bef0-vs=b944892704572eee-ps=3b53b9fb72da250f.txt
+2024-09-28 01:42:12,774 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:12,774 INFO [default] VertexCount: 38927
+2024-09-28 01:42:12,838 INFO [default] Processing ib file: 000032-ib=0569c3b0-vs=b944892704572eee-ps=3b53b9fb72da250f.txt
+2024-09-28 01:42:12,839 INFO [default] Processing trianglelist: 000032-vb0=7404bef0-vs=b944892704572eee-ps=3b53b9fb72da250f.txt
+2024-09-28 01:42:12,903 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:12,903 INFO [default] VertexCount: 38927
+2024-09-28 01:42:12,967 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-28 01:42:12,967 INFO [default] VertexCount: 380000
+2024-09-28 01:42:13,035 INFO [default] Processing ib file: 000037-ib=0569c3b0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.txt
+2024-09-28 01:42:13,036 INFO [default] Processing trianglelist: 000037-vb0=7404bef0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.txt
+2024-09-28 01:42:13,098 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:13,098 INFO [default] VertexCount: 38927
+2024-09-28 01:42:13,163 INFO [default] Processing ib file: 000038-ib=0569c3b0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.txt
+2024-09-28 01:42:13,164 INFO [default] Processing trianglelist: 000038-vb0=7404bef0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.txt
+2024-09-28 01:42:13,226 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:13,226 INFO [default] VertexCount: 38927
+2024-09-28 01:42:13,291 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-28 01:42:13,291 INFO [default] VertexCount: 380000
+2024-09-28 01:42:13,618 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-28 01:42:13,618 INFO [default] VertexCount: 380000
+2024-09-28 01:42:13,684 INFO [default] Processing ib file: 000064-ib=0569c3b0-vs=aa6d4645035e2580-ps=c90abf219c70608c.txt
+2024-09-28 01:42:13,684 INFO [default] Processing trianglelist: 000064-vb0=7404bef0-vs=aa6d4645035e2580-ps=c90abf219c70608c.txt
+2024-09-28 01:42:13,750 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:13,750 INFO [default] VertexCount: 38927
+2024-09-28 01:42:13,816 INFO [default] Processing ib file: 000065-ib=0569c3b0-vs=aa6d4645035e2580-ps=c90abf219c70608c.txt
+2024-09-28 01:42:13,817 INFO [default] Processing trianglelist: 000065-vb0=7404bef0-vs=aa6d4645035e2580-ps=c90abf219c70608c.txt
+2024-09-28 01:42:13,883 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:13,883 INFO [default] VertexCount: 38927
+2024-09-28 01:42:13,951 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-28 01:42:13,951 INFO [default] VertexCount: 380000
+2024-09-28 01:42:14,019 INFO [default] Processing ib file: 000070-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,019 INFO [default] Processing trianglelist: 000070-vb0=7404bef0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,086 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:14,086 INFO [default] VertexCount: 38927
+2024-09-28 01:42:14,154 INFO [default] Processing ib file: 000071-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,156 INFO [default] Processing trianglelist: 000071-vb0=7404bef0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,225 INFO [default] Meet Null Patched Buffer file, try read real size again.
+2024-09-28 01:42:14,225 INFO [default] VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,408 INFO [default] PointlistIndexVertexNumberMap:
+2024-09-28 01:42:14,408 INFO [default] Index: 000001, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] max vertex count pointlist index: 000001
+2024-09-28 01:42:14,408 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,408 INFO [default] TrianglelistIndexVertexNumberMap:
+2024-09-28 01:42:14,408 INFO [default] Index:000038, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000065, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000003, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000037, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000004, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000064, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000031, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000032, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000070, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] Index:000071, VertexCount: 38927
+2024-09-28 01:42:14,408 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,408 INFO [default] TexcoordExtractSlot: vb1
+2024-09-28 01:42:14,455 INFO [default] MaxTrianglelistStride: 20
+2024-09-28 01:42:14,455 INFO [default] TrianglelistExtractIndex: 000003
+2024-09-28 01:42:14,456 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,456 INFO [default] Extract from Buffer file: 
+2024-09-28 01:42:14,464 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,464 INFO [default] Extract from: 000001-vb0=0569d4f0-vs=653c63ba4a73ca8b.txt
+2024-09-28 01:42:14,464 INFO [default] AddElementList: 
+2024-09-28 01:42:14,464 INFO [default] position
+2024-09-28 01:42:14,464 INFO [default] normal
+2024-09-28 01:42:14,464 INFO [default] tangent
+2024-09-28 01:42:14,464 INFO [default] file show stride: 40
+2024-09-28 01:42:14,464 INFO [default] elementlist stride: 40
+2024-09-28 01:42:14,464 INFO [default] Stride:40
+2024-09-28 01:42:14,470 INFO [default] Extract from: 000001-vb0=0569d4f0-vs=653c63ba4a73ca8b.buf VertexNumber:38927
+2024-09-28 01:42:14,470 INFO [default] Category:Position CategorySlot:vb0 CategoryTopology:pointlist
+2024-09-28 01:42:14,484 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,484 INFO [default] Extract from: 000003-vb1=0569beb0-vs=7015f9024671ecb2-ps=806063dc66a595a5.txt
+2024-09-28 01:42:14,484 INFO [default] AddElementList: 
+2024-09-28 01:42:14,484 INFO [default] color
+2024-09-28 01:42:14,484 INFO [default] texcoord
+2024-09-28 01:42:14,484 INFO [default] texcoord1
+2024-09-28 01:42:14,484 INFO [default] file show stride: 20
+2024-09-28 01:42:14,484 INFO [default] elementlist stride: 20
+2024-09-28 01:42:14,484 INFO [default] Stride:20
+2024-09-28 01:42:14,488 INFO [default] Extract from: 000003-vb1=0569beb0-vs=7015f9024671ecb2-ps=806063dc66a595a5.buf VertexNumber:38927
+2024-09-28 01:42:14,488 INFO [default] Category:Texcoord CategorySlot:vb1 CategoryTopology:trianglelist
+2024-09-28 01:42:14,508 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,508 INFO [default] Extract from: 000001-vb1=0569d4f0-vs=653c63ba4a73ca8b.txt
+2024-09-28 01:42:14,508 INFO [default] AddElementList: 
+2024-09-28 01:42:14,508 INFO [default] blendweight
+2024-09-28 01:42:14,508 INFO [default] blendindices
+2024-09-28 01:42:14,508 INFO [default] file show stride: 32
+2024-09-28 01:42:14,508 INFO [default] elementlist stride: 32
+2024-09-28 01:42:14,508 INFO [default] Stride:32
+2024-09-28 01:42:14,513 INFO [default] Extract from: 000001-vb1=0569d4f0-vs=653c63ba4a73ca8b.buf VertexNumber:38927
+2024-09-28 01:42:14,513 INFO [default] Category:Blend CategorySlot:vb1 CategoryTopology:pointlist
+2024-09-28 01:42:14,535 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,544 INFO [default] ElementList:
+2024-09-28 01:42:14,544 INFO [default] ElementName: position
+2024-09-28 01:42:14,544 INFO [default] ElementName: normal
+2024-09-28 01:42:14,544 INFO [default] ElementName: tangent
+2024-09-28 01:42:14,544 INFO [default] ElementName: color
+2024-09-28 01:42:14,544 INFO [default] ElementName: texcoord
+2024-09-28 01:42:14,544 INFO [default] ElementName: texcoord1
+2024-09-28 01:42:14,544 INFO [default] ElementName: blendweight
+2024-09-28 01:42:14,544 INFO [default] ElementName: blendindices
+2024-09-28 01:42:14,544 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,544 INFO [default] Start to read trianglelist IB file info
+2024-09-28 01:42:14,551 INFO [default] Output and see the final first index and trianglelist file:
+2024-09-28 01:42:14,551 INFO [default] firstIndex: 0, trianglelistIBFileName: 000070-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,551 INFO [default] firstIndex: 14385, trianglelistIBFileName: 000071-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.txt
+2024-09-28 01:42:14,551 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,551 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.buf
+2024-09-28 01:42:14,565 INFO [default] IB file format: dxgi_format_r32_uint
+2024-09-28 01:42:14,566 INFO [default] IB file length: 14385
+2024-09-28 01:42:14,567 INFO [default] MinNumber:0
+2024-09-28 01:42:14,567 INFO [default] MaxNumber:4019
+2024-09-28 01:42:14,567 INFO [default] finalVB0Buf size:3581284
+2024-09-28 01:42:14,567 INFO [default] outputVBBuf size:369840
+2024-09-28 01:42:14,568 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ib=0569c3b0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.buf
+2024-09-28 01:42:14,734 INFO [default] IB file format: dxgi_format_r32_uint
+2024-09-28 01:42:14,734 INFO [default] IB file length: 163239
+2024-09-28 01:42:14,740 INFO [default] MinNumber:4020
+2024-09-28 01:42:14,740 INFO [default] MaxNumber:38926
+2024-09-28 01:42:14,741 INFO [default] finalVB0Buf size:3581284
+2024-09-28 01:42:14,741 INFO [default] outputVBBuf size:3211444
+2024-09-28 01:42:14,743 INFO [default] Start to save tmp config
+2024-09-28 01:42:14,743 INFO [default] configCompletePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\0569c3b0\tmp.json
+2024-09-28 01:42:14,743 INFO [default] Json config has saved into file.
+2024-09-28 01:42:14,743 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,753 INFO [default] Start to move all Texture files: 
+2024-09-28 01:42:14,753 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000003-ps-t0=0569bfc0-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,762 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000003-ps-t1=0569bfc0-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,767 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000003-ps-t2=dde1f43a-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,768 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000003-ps-t6=3b162ece-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,769 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t0=0569bfc0-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,770 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t1=0569bfc0-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,771 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t2=dde1f43a-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,771 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t6=3b162ece-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,772 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000031-ps-t0=0569bfc0-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,779 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000031-ps-t1=0569bfc0-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,785 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000031-ps-t2=b0e08915-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,786 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000032-ps-t0=0569bfc0-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,787 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000032-ps-t1=0569bfc0-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,788 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000032-ps-t2=b0e08915-vs=b944892704572eee-ps=3b53b9fb72da250f.dds
+2024-09-28 01:42:14,789 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000037-ps-t0=0569bfc0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,795 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000037-ps-t1=0569bfc0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,801 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000037-ps-t2=b0e08915-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,802 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000038-ps-t0=0569bfc0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,803 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000038-ps-t1=0569bfc0-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,803 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000038-ps-t2=b0e08915-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,804 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t0=0569bfc0-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,805 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t1=0569bfc0-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,806 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t2=e1581ce8-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,806 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t3=056ee5be-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,807 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t4=e4f367e3-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,808 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t5=6961aef6-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,809 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000064-ps-t6=3b162ece-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,810 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t0=0569bfc0-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,816 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t1=0569bfc0-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,821 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t2=e1581ce8-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,822 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t3=056ee5be-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,823 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t4=e4f367e3-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,824 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t5=6961aef6-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,824 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000065-ps-t6=3b162ece-vs=aa6d4645035e2580-ps=c90abf219c70608c.dds
+2024-09-28 01:42:14,825 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t0=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,826 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t1=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,827 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t2=e1581ce8-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,827 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t3=056ee5be-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,828 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t4=e4f367e3-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,828 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t5=6961aef6-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,829 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000070-ps-t6=3b162ece-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,830 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t0=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,837 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t1=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,842 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t2=e1581ce8-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,843 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t3=056ee5be-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,844 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t4=e4f367e3-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,844 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t5=6961aef6-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,844 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t6=3b162ece-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,845 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,846 INFO [default] Start to move unique Texture files: 
+2024-09-28 01:42:14,846 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t0=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,852 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t2=e1581ce8-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,852 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t1=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,859 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t2=dde1f43a-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,860 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t6=3b162ece-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,860 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000038-ps-t2=b0e08915-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,861 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t3=056ee5be-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,862 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t4=e4f367e3-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,862 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t5=6961aef6-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,862 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,862 INFO [default] Start to move hash distinct Texture files: 
+2024-09-28 01:42:14,862 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t1=0569bfc0-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,868 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t5=6961aef6-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,869 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000004-ps-t2=dde1f43a-vs=7015f9024671ecb2-ps=806063dc66a595a5.dds
+2024-09-28 01:42:14,869 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t6=3b162ece-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,870 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000038-ps-t2=b0e08915-vs=ca15e550c2774d95-ps=1d43c1b95ef44152.dds
+2024-09-28 01:42:14,870 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t2=e1581ce8-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,870 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t3=056ee5be-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,871 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-28-013813\000071-ps-t4=e4f367e3-vs=10e1ba46c888821c-ps=b7737e65fe5c7fb0.dds
+2024-09-28 01:42:14,871 INFO [default] --------------------------------------------------------------------
+2024-09-28 01:42:14,879 INFO [default] Run complete! Success!

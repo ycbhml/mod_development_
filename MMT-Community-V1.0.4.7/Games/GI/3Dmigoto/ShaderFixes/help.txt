@@ -1,0 +1,21 @@
+Genshin Impact Model Importer (GIMI) v7.0
+A version of 3dmigoto modified to work with genshin, by SilentNightSound
+
+Place extracted mods into the Mods folder and press F10 to reload
+You can find mods at the AGMG discord (https://discord.com/invite/agmg) and Gamebanana
+
+Commands:
+  F1: Show/Hide this help menu
+  F6: Toggle mods (note: some mods may not toggle properly depending on how the modder set it up, mostly card mods)
+  F10: Reload mods
+  Numpad0: Turns green hunting text on/off
+
+Developer Commands (dev mode only):
+  F8: Perform frame dump
+  F9: Toggles mods while held
+  Ctrl+F9: Perfomance monitor
+
+Huge thank you to DarkStarSword, bo3b and Chiri for the base 3dmigoto!
+
+
+If you want to support GIMI development, please consider leaving a tip at https://ko-fi.com/silentnightsound

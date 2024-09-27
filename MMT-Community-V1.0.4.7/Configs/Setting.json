@@ -1,0 +1,8 @@
+{
+  "BackUp": true,
+  "DeleteOutputFolder": true,
+  "AutoCleanFrameAnalysisFolder": true,
+  "FrameAnalysisFolderReserveNumber": 3,
+  "AutoCleanLogFile": true,
+  "LogFileReserveNumber": 6
+}

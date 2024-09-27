@@ -1,0 +1,49 @@
+2024-09-27 23:45:46,134 INFO [default] Running : C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\MMT.exe
+2024-09-27 23:45:46,134 INFO [default] Running in Release mode.
+2024-09-27 23:45:46,134 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,134 INFO [default] ApplicationLocation: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7
+2024-09-27 23:45:46,134 INFO [default] Start to initialize global config:
+2024-09-27 23:45:46,134 INFO [default] Start to read from Main.json:
+2024-09-27 23:45:46,134 INFO [default] Main.json Path:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Configs\Main.json
+2024-09-27 23:45:46,134 INFO [default] GameName:GI
+2024-09-27 23:45:46,134 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,134 INFO [default] GameTypeFileNameList size: 4
+2024-09-27 23:45:46,134 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,134 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIBody.json
+2024-09-27 23:45:46,141 INFO [default] Category:Blend DrawCategory:Position
+2024-09-27 23:45:46,141 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 23:45:46,141 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-27 23:45:46,141 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,141 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObject.json
+2024-09-27 23:45:46,147 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 23:45:46,147 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,147 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectFloor.json
+2024-09-27 23:45:46,152 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 23:45:46,152 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,152 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectIB.json
+2024-09-27 23:45:46,157 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 23:45:46,157 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-27 23:45:46,158 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,158 INFO [default] OutputFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\
+2024-09-27 23:45:46,159 INFO [default] LoaderFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\
+2024-09-27 23:45:46,159 INFO [default] FrameAnalyseFolder:FrameAnalysis-2024-09-27-234451
+2024-09-27 23:45:46,159 INFO [default] WorkFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-27-234451\
+2024-09-27 23:45:46,159 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,159 INFO [default] Start to read config for DrawIB:33a92492
+2024-09-27 23:45:46,159 INFO [default] GameType:Auto
+2024-09-27 23:45:46,159 INFO [default] SwitchKey:
+2024-09-27 23:45:46,159 INFO [default] TangentAlgorithm:
+2024-09-27 23:45:46,159 INFO [default] ColorAlgorithm:
+2024-09-27 23:45:46,159 INFO [default] ColorMap:
+2024-09-27 23:45:46,159 INFO [default] Color: rgb_a  value: default
+2024-09-27 23:45:46,159 INFO [default] Color: rgb_r  value: default
+2024-09-27 23:45:46,159 INFO [default] Color: rgb_b  value: default
+2024-09-27 23:45:46,159 INFO [default] Color: rgb_g  value: default
+2024-09-27 23:45:46,159 INFO [default] TextureDict:
+2024-09-27 23:45:46,159 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,159 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\33a92492\tmp.json
+2024-09-27 23:45:46,159 INFO [default] Read config for every DrawIB success.
+2024-09-27 23:45:46,159 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,159 INFO [default] Running Command: mergeReverse
+2024-09-27 23:45:46,159 INFO [default] --------------------------------------------------------------------
+2024-09-27 23:45:46,159 INFO [default] [Error]:Reverse extract doesn't support auto type detect yet,please find your taget mod's game type by extract it's original game model and find the gametype in generated file tmp.json in OutputFolder.

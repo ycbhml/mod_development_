@@ -1,0 +1,1 @@
+python genshin_3dmigoto_collect.py -vb 哈希值_hash -n 模型名字

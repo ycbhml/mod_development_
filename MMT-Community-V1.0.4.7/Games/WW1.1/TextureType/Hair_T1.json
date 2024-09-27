@@ -1,0 +1,11 @@
+{
+	"PixelShaderHashList":[
+		"227d61351596459b"
+	],
+	"PixelSlot_TextureType_Map":{
+		"ps-t0":"LightMap.dds",
+		"ps-t1":"DiffuseMap.dds",
+		"ps-t2":"HighLightMap.dds",
+		"ps-t3":"HighLightMap2.dds"
+	}
+}

@@ -1,0 +1,249 @@
+V1.0.4.7
+This version update thanks to the feedback from "(L _ L)"
+- Add support for texture output and auto import texturex in to blender in GI model reverse extract .
+- Optimized for all texture detect algorithm, now can use config file under Games folder to dynamic modify and extend.
+
+
+V1.0.4.6
+- Fix a fatal bug in WW1.1 COLOR d3d11 type ,now all shadow and outline works perfect.
+
+V1.0.4.5
+This version update thanks to the feedback from "瑰夏","梦境","拉辛"
+- Now a error and tip will generate if you use fake IB 8d45cfee in WuWa model extract.
+- Optimized for auto type detect in UE4 VS games,now will auto handle multiple GameType and choose better one.
+- Now a tip for setting analyse_option will show if there is no any .buf file in latest FrameAnalysis folder.
+- Now UE4 mod generate will output R16_UINT if ib file's max numbr is not large than 65535 .
+- Now extract model from WW1.1 will auto generate slot textures in output folder and use mmt blender plugin V1.5.3 can auto import into Blender and auto add difuse into Shading BSDF.
+
+V1.0.4.4
+This version update thanks to the feedback from "SinsOfSeven"
+- Fix a bug in GI auto set TANGENT algorithm in MMT-GUI config.
+- Optimize: Use ref to replace copy to save FPS in all UE mod ini.
+- Add a game type WW11_Object for WW1.1 to support weapon type.
+- Add all object type support in WuWa: WW10_Object,WW10_ObjectType2,WW10_ObjectType3,WW10_ObjectType4
+- Optimized for UE4 VS extract method, more elegant and run faster.
+- Optimized for UE4 VS extract auto game type detect,now more compatible.
+
+V1.0.4.3
+- Add model extract and mod generate support for WuWa V1.1
+(WuWa 1.0 change to VS to calculate GPU-Preskinning so every thing is change, you need to remake all your model modify mod.)
+(Choose WW1.1 instead of WW to use new mod method)
+- WuWa vertex limit has been increase a lot, i don't know how much but it's a lot.
+- WW1.0 can delete vertex now ,and don't need to stay same vertex count as original model.
+
+V1.0.4.2
+This version update thanks to the feedback from "马丁","rayvy"
+- Add warning for GI model extract if you turn on "Dynamic Character Resolution".
+- Add support for texture auto extract and texture ini auto generate for GI.
+- Add support for texture format convert to jpg using 3rd tool texconv.exe,to work with our latest V1.5.3 blender plugin to import with diffuse texture.
+- Optimized for fuzzy vertex count match algorithm in mod reverse.
+- Now config for GI will auto set use recalculate TANGENT by average_normal algorithm.
+
+V1.0.4.1
+- Add model extract support and mod generate support for ToF(Tower of Fantasy)(Hotta)
+
+V1.0.3.9
+This version update thanks to the feedback from "Tuna".
+- Optimized for log output in globalconfig and reverse merged toggle, easier to debug and analysis.
+- Reverse merged toggle mod now support parse for expression contains logic || .
+
+V1.0.3.8
+- Upgrade reverse merged toggle mod to Lv4, faster to run and easy to debug.
+- Reverse merged toggle mod now support parse for expression contains logic && .
+- Reverse merged toggle mod now will move all activated textures to it's output folder,easier to use.
+
+V1.0.3.7
+This version update thanks to the feedback from "往昔","牧羊"
+- Optimize for the .vb file size generate in outfit_compiler mod reverse, now import into blender will be faster.
+- Finish upgrade reverse single mod & reverse outfit_compiler mod to Lv4, more efficient and more easier to understand source code,more easier to debug.
+- Fix a bug in WuWa object mod detect,now use ps-t1 as texture detect slot.
+
+V1.0.3.6
+- Optimize for GI,HSR,HI3,ZZZ,SnB,WuWa's Object type extract: now will generate smaller .vb file and it will not have annoying extra vertex group.
+it save the time when import them into blender and save the space when you want to share it with others.
+and you don't need to do annoying step at import time: right click=>3Dmigoto=>Remove Unused Vertex Group anymore.
+- Optimize for WuWa mod FPS drop problem, now WuWa model replace mod will get a better FPS by reuse Resource_BakIB multiple times.
+- Optimize for 3dmigoto mod reverse Lv3,now use unique vertex count number in .ib file to match with resource file. 
+
+V1.0.3.5
+This version update thanks to the feedback and support from "(ᗜ ˰ ᗜ)​","科比 布莱恩特","瑰夏"
+- Add a COLOR preset in config for HSR.
+- Optimize for WuWa model extract, now will generate a new json for later break vertex number limit use.
+- Optimize for WuWa model extract, now will generate smaller .vb file and it will not have annoying extra vertex group.
+it save the time when import them into blender and save the space when you want to share it with others.
+
+V1.0.3.4
+This version update thanks to the feedback and support from "Z M"
+- Reverse extract now does not allow to use auto type detect and will give a tip if you still use it.
+- Fix a bug in Auto type detect, it will use a correct show stride instead of fake data's stride in .txt file.
+- Fix a bug in Auto type detect, it will now correctly detect type that does not use GPU-Preskinning.
+
+V1.0.3.3
+- This version update thanks to the feedback and support from "科比·布莱恩特","德德","狩野樱","拉辛".
+- Fix a bug for auto type detect can't work correct on unity games,it can auto detect object type now.
+- Fix a bug for GI's object mod ini generate problem,it will not mistakely generate Blend category now.
+- Add a new config item "GPU-PreSkinning" for every game type,optimized for ini generate.
+- Complete unity object type mod ini generate,now will directly generate the final result and don't need to manually fix them again.
+- Fix a bug for unity Object mod generate,now will use default NORMAL,TANGENT value if can't detect supported NORMAL,TANGENT type.
+
+V1.0.3.2
+- Add a new type SnB_BodyType5 for SnB.
+- Change sponser NicoMico link to join ShaderFreedom link.
+
+V1.0.3.1
+- Fix a fatal bug in WuWa auto type detect, now it works perfect.
+
+V1.0.2.9
+- Fix a bug can't match extract number when it's order is not correct, now can extract all WW_Body type correctly,this lead to WW_Body can't extract if there is multiple character in scene.
+- Fix a bug can't match WW_Object due to ps-t0 jpg format not match.
+- Add a new type SnB_BodyType4 for SnB
+- Fix a bug for SnB's auto type detect.
+- Add open Types folder, more convinent for add new type and test.
+
+V1.0.2.8
+- Fix a fatal bug in WuWa auto type detect.
+
+V1.0.2.7
+- Add WW_ObjectType3 for tree in WuWa.
+- Add WW_ObjectType4 for female main character's Sword sheath.
+- Optimize WW Extract logic.
+- Add auto game type detect for WuWa.
+
+V1.0.2.6
+- Add model extract and mod generate support for Strinova(KALABIYAU).
+(Notice:Use 3dmigoto in this game may get ban for 10years by their ACE anti-cheat system.)
+- Add GameType KBY_Body for Strinova.
+
+V1.0.2.5
+- Add a tip if you run extract but no FrameAnalysis folder is there.
+- Modify the tip when error happen.
+- Add type check for SnB, now will show a tip if GameType not correct.
+- Add auto GameType detect for SnB,now just use "Auto" to extract in SnB will be good.
+
+V1.0.2.4
+- Add type SnB_BodyType3 for SnowBreak.
+
+V1.0.2.3
+- Fix a bug will lead to SnB_BodyType2 can't generate correct Blend file.
+
+V1.0.2.2
+- Add support for SnowBreak's 3Dmigoto model extract and mod generate support.
+- Add type SnB_Body for SnowBreak.
+- Add type SnB_BodyType2 for SnowBreak.
+- Optimize WuWa's ini generate content.
+
+V1.0.2.1
+- Add a new type for WuWa object extract and mod generate  :  WW_ObjectType2, works on Treasure Chest etc...
+
+V1.0.1.9
+- Optimize all ini generated file.
+- Optimize WuWa generated ini format.
+- Optimize GUI's Window title.
+- Add a button to sponser NicoMico for more feature develop.
+- Fix a Fatal BUG when WuWa ini file generate ,it will not close file and so be detected as trojan by Windows Defender.
+- Optimize README
+
+V1.0.1.8
+- Add NORMAL and TANGENT support for WuWa object type.
+
+V1.0.1.7
+- Add support for WuWa object type model extract and buffer replace mod generate.
+- Add back "Free Tool Developed By NicoMico" in window title.
+
+
+V1.0.1.6
+- Fix the vertex number increase problem when export .ib and .vb file from blender in our MMT plugin's v1.4.7 version,
+now we can make perfect WuWa weight delete mod(to hide vertex by delete weight) ,or we can make vertex move mod also,
+you will need to install latest V1.4.7 version of MMT's blender plugin to get this feature.
+
+- Remove wrong game type for WuWa, now only WW_Body left there, and with MMT-Blender V1.4.7 it works perfectly good.
+
+V1.0.1.5
+- Add a game type WW_BodyType2 for WuWa,it's a correct type with TANGENT in it and can get per fect shadow,
+ but use it will cause blender_3dmigoto plugin calculate more than original vertex number when export model to vb file,
+so it's prepared for future if some one figure out how to solve the vertex number problem.
+
+So why is WW_Body won't change vertex number? because it takes TANGENT value as COLOR,
+so when blender export it , it will try to HashAble the vertex and COLOR only have one value on one point,
+so a point will be generate to one point, but TANGENT have more thant one value on one point,
+so a point with TANGENT will be generate to multiple point ,which will lead to vertex number increase。
+
+- Use UE4's Coordinate space conversion with blender coordinate to Fix WuWa's NORMAL/TANGENT problem
+now if you choose WW_BodyType2 to make mod, it will get a correct shadow because our NORMAL/TANGENT is correct,
+but you will meet vertex number problem which will lead character's eye can't render correct, so there is still under testing and dev.
+
+- Modified some code in latest MMT's blender's plugin to make sure it always export the correct vertex number , extra number vertex will be abandon.
+Now use WW_BodyType2 and latest MMT's blender's plugin will solve part of the shadow not correct problem.
+
+V1.0.1.4
+- Now WW won't show Auto game type in config,save some time on swtiching it.
+- Optimized for WuWa mod generated ini file.
+- Optimized for IB file reading effeciency.
+- Fix a bug in WuWa model extract, now can set slot correctly based on compute shader.
+- Fix a fatle type problem in WuWa  ww_body.json.
+
+V1.0.1.3
+- Fix a fatal bug for reading empty config.
+
+V1.0.1.2
+- Optimize WuWa model extract method.
+- Remove unused force pointlist and trianglelistconfig GUI button.
+- Optimize WuWa type json.
+- Fix a draw number mismatch bug in extract method.
+- Optimized for TANGENT algorithm(not perfect yet,still under testing,now use standard UE4 switching way).
+
+V1.0.1.1
+- Fix a bug in WuWa model extract,now we can extract mod in multiple character object's scene.
+
+V1.0.0.9
+- Now our MMT.zip blender plugin works good and support one click export. Github: https://github.com/StarBobis/MMT-Blender-Plugin.
+- Remove a useless UVTOP category in WWBody type.
+- Fix a IndexBuffe number mismatch bug in Mod Reverse ,thanks for Tuna for send feedback.
+- Now Support Wuthering Wave mod import and export ,should use with our mmt-blender plugin.
+Notice WuWa mod generate is still under development and under test, not perfect and don't use it in release mod.
+
+
+V1.0.0.8
+- Fix a bug for part of the log will keep write in a same log file and make it become huge,now will seperate to different correct log files.
+- Fix a bug when check auto clean FrameAnalysisFolder but didn't fill reserve number will get an error, now will get a tips instead, thanks for 拉辛 for send feedback.
+- Fix a bug when check auto clean log files but didn't fill reserve number will get an error, now will get a tips instead, thanks for 拉辛 for send feedback.
+- New Feature: Add a simple click to reverse outfit_compiler.py compressed mod.
+- Add a game type for GI : GIObjectFloor.json, thanks for 拉辛 for send feedback.
+
+V1.0.0.7
+- No annoying "Developed by NicoMico" in program header title.
+- No annoying sponser NicoMico in afdian button.
+- Fix a problem in language switching.
+- Now reverse single Mod finish test and works good as expect.
+- Now reverse merged Mod finish test and works good as expect.
+- New feature: Add Run 3Dmigoto Loader.exe to start 3Dmigoto if it is under it's "3Dmigoto" folder. (Note: it will try use Administrator priveledge to start process.)
+- New feature: Add Run 3Dmigoto Loader-ByPassACE.exe to start 3Dmigoto and auto start game if it is under it's "3Dmigoto" folder
+notice this will need my modified version of 3dmigoto injector.   (Note: it will try use Administrator priveledge to start process.)
+it can be downloaded from https://github.com/StarBobis/3Dmigoto-Injectors.
+- New feature: Now [Extract Mod Model] moved to Reverse button instead of put it under our main working buttion to decrease confusing.
+- New feature: Now if you change DrawIB in DataGridView, it will check if this DrawIB has been configured and if not the config button will be reset, if configured nothing will happen.
+- Fix a BUG for can't auto detect HSR's game type, thanks 狩野樱 for send feedback.
+- Optimize Auto GameType detect log generate.
+- Fix a bug in Extract reverse mod vertex count detect algorithm, now can reverse extract HSR's mod correctly.
+
+V1.0.0.6
+- Fix a BUG in WW extract,now it won't turn a null FirstIndex string into integer value. thanks for @rayvy provide bug feedback.
+- Fix WW's type json, thanks for @rayvy provide feedback.
+- Add 3Dmigoto-Sword-Lv3's code into MMT, WIP
+- Add MMT's blender plugin, WIP
+
+V1.0.0.5
+- add support for some of weathering wave's character model extract, mod generate is still under development.
+
+V1.0.0.4
+- now reverse extract feature in 3DmigotoArmor-Dev's d3d11.dll will not always turn on ,and can be turn off if you set track_texture_updates = 0,can be turn on if you set track_texture_updates = 1
+this will need you to control weather use it or not.
+
+V1.0.0.3
+- Fix a problem when reverse extract mod, wrong stride calculate will lead to can't extract model, now has been fixed.
+
+V1.0.0.2
+- Add a button specific for extract reverse mod model.
+
+V1.0.0.1
+- MMT Community now released, free for every one to use.

@@ -1,0 +1,23 @@
+[
+  {
+    "DrawIB": "c35a3863",
+    "GameType": "Auto",
+    "Color": {
+      "rgb_r": "default",
+      "rgb_g": "default",
+      "rgb_b": "default",
+      "rgb_a": "default"
+    },
+    "SwitchKey": "",
+    "TangentAlgorithm": "",
+    "ColorAlgorithm": "",
+    "TextureDict": {},
+    "NormalReverseX": false,
+    "NormalReverseY": false,
+    "NormalReverseZ": false,
+    "TangentReverseX": false,
+    "TangentReverseY": false,
+    "TangentReverseZ": false,
+    "TangentReverseW": false
+  }
+]

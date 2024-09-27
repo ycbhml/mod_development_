@@ -1,0 +1,153 @@
+2024-09-27 14:47:22,481 INFO [default] Running : C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\MMT.exe
+2024-09-27 14:47:22,481 INFO [default] Running in Release mode.
+2024-09-27 14:47:22,481 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,482 INFO [default] ApplicationLocation: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7
+2024-09-27 14:47:22,482 INFO [default] Start to initialize global config:
+2024-09-27 14:47:22,482 INFO [default] Start to read from Main.json:
+2024-09-27 14:47:22,482 INFO [default] Main.json Path:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Configs\Main.json
+2024-09-27 14:47:22,491 INFO [default] GameName:GI
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] GameTypeFileNameList size: 4
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIBody.json
+2024-09-27 14:47:22,491 INFO [default] Category:Blend DrawCategory:Position
+2024-09-27 14:47:22,491 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 14:47:22,491 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObject.json
+2024-09-27 14:47:22,491 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectFloor.json
+2024-09-27 14:47:22,491 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] CurrentProcessing GameTypeFilePath: C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\Types\GIObjectIB.json
+2024-09-27 14:47:22,491 INFO [default] Category:Position DrawCategory:Position
+2024-09-27 14:47:22,491 INFO [default] Category:Texcoord DrawCategory:Texcoord
+2024-09-27 14:47:22,491 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,491 INFO [default] OutputFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\
+2024-09-27 14:47:22,492 INFO [default] LoaderFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\
+2024-09-27 14:47:22,492 INFO [default] FrameAnalyseFolder:FrameAnalysis-2024-09-27-144445
+2024-09-27 14:47:22,492 INFO [default] WorkFolder:C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\FrameAnalysis-2024-09-27-144445\
+2024-09-27 14:47:22,492 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,492 INFO [default] Start to read config for DrawIB:33a92492
+2024-09-27 14:47:22,492 INFO [default] GameType:Auto
+2024-09-27 14:47:22,492 INFO [default] SwitchKey:
+2024-09-27 14:47:22,492 INFO [default] TangentAlgorithm:
+2024-09-27 14:47:22,492 INFO [default] ColorAlgorithm:
+2024-09-27 14:47:22,492 INFO [default] ColorMap:
+2024-09-27 14:47:22,492 INFO [default] Color: rgb_a  value: default
+2024-09-27 14:47:22,492 INFO [default] Color: rgb_r  value: default
+2024-09-27 14:47:22,492 INFO [default] Color: rgb_b  value: default
+2024-09-27 14:47:22,492 INFO [default] Color: rgb_g  value: default
+2024-09-27 14:47:22,492 INFO [default] TextureDict:
+2024-09-27 14:47:22,492 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,492 INFO [default] C:\Users\YAOZHIXUE\Desktop\MMT-Community-V1.0.4.7\Games\GI\3Dmigoto\Mods\output\33a92492\tmp.json
+2024-09-27 14:47:22,492 INFO [default] Read config for every DrawIB success.
+2024-09-27 14:47:22,492 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,492 INFO [default] Running Command: merge
+2024-09-27 14:47:22,492 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:22,516 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:22,516 INFO [default] VertexCount: 220000
+2024-09-27 14:47:22,932 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:22,932 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,050 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:23,050 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,171 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:23,171 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,292 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:23,292 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,603 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:23,603 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,724 INFO [default] Can't find vertex count attribute in VB file, count the whole line manually.
+2024-09-27 14:47:23,725 INFO [default] VertexCount: 220000
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] Detected trianglelist possible element list: 
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] maxTrianglelistVertexCountNumber: 0
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] possibleTrianglelistD3D11ElementTypeList;
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] Start to parse all pointlist vb file to detect possible d3d11Element type.
+2024-09-27 14:47:23,985 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,985 INFO [default] Parsing pointlist index: 000001
+2024-09-27 14:47:23,986 INFO [default] Start to parse pointlist FileNameList. 
+2024-09-27 14:47:23,993 INFO [default] Parse pointlist elementlist over.
+2024-09-27 14:47:23,998 INFO [default] Parse pointlist elementlist over.
+2024-09-27 14:47:23,998 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:23,998 INFO [default] Parsing pointlist index: 000002
+2024-09-27 14:47:23,999 INFO [default] Start to parse pointlist FileNameList. 
+2024-09-27 14:47:24,006 INFO [default] Parse pointlist elementlist over.
+2024-09-27 14:47:24,011 INFO [default] Parse pointlist elementlist over.
+2024-09-27 14:47:24,012 INFO [default] [Warning]:Can't find matchPointlistIndex this may be a Object type.
+2024-09-27 14:47:24,012 INFO [default] matchPointlistIndex:  VertexCount:0
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Detected pointlist element list: 
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Try to match GameType:
+2024-09-27 14:47:24,012 INFO [default] GI Total GameType list size: 4
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Current GameType: GIBody
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: POSITION
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: NORMAL
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TANGENT
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: COLOR
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD1
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: BLENDWEIGHT
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: BLENDINDICES
+2024-09-27 14:47:24,012 INFO [default] Start to match trianglelist d3d11 element:
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: color
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord1
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Current GameType: GIObject
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: POSITION
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: NORMAL
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: COLOR
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD1
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TANGENT
+2024-09-27 14:47:24,012 INFO [default] Start to match trianglelist d3d11 element:
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: position
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: normal
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: color
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord1
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: tangent
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Current GameType: GIObjectFloor
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: POSITION
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: NORMAL
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: COLOR
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD1
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TANGENT
+2024-09-27 14:47:24,012 INFO [default] Start to match trianglelist d3d11 element:
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: position
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: normal
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: color
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord1
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: tangent
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] Current GameType: GIObjectIB
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: POSITION
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: NORMAL
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TANGENT
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: COLOR
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD
+2024-09-27 14:47:24,012 INFO [default] Current Matching elementName: TEXCOORD1
+2024-09-27 14:47:24,012 INFO [default] Start to match trianglelist d3d11 element:
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: position
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: normal
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: tangent
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: color
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord
+2024-09-27 14:47:24,012 INFO [default] trianglelist element need to match: texcoord1
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,012 INFO [default] --------------------------------------------------------------------
+2024-09-27 14:47:24,013 INFO [default] [Error]:No any game type matched!Please contact NicoMico to fix this.
