@@ -21,6 +21,12 @@ Blender插件5：blender_3dmigoto_gimi.py Blender中3dmigoto的导入 txt ib vb 
 安装后在右侧工具栏即可调用 如果不兼容 基本是版本不兼容问题 详情请查看3dm tg yt上各路神仙的讲解和插件分享
 
 
+
+
+
+
+
+
 2.paint.net 制作贴图的软件
 
 paint.net插件1：AlphaMask.dll   用来反转透明度
