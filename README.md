@@ -1,4 +1,4 @@
-#3dmigoto_mod_development#
+#3dmigoto_mod_development
 
 原神 3dmigoto插件的 mod 制作相关储藏库
 
@@ -19,3 +19,5 @@ Blender插件5：blender_3dmigoto_gimi.py Blender中3dmigoto的导入 txt ib vb 
 插件均在 编辑-偏好设置-插件里直接下载 从磁盘安装即可  mmd—tools可直接通过获取扩展下载最新版本
 
 安装后在右侧工具栏即可调用 如果不兼容 基本是版本不兼容问题 详情请查看3dm tg yt上各路神仙的讲解和插件分享
+
+
