@@ -35,3 +35,18 @@ paint.net插件2: install_AlphaMask.bat 可运行的下载bat
 V1.0.4.7版本 以下 需要在F8 dunp后的文件夹里找到值表,游戏里IB后找到hash值,在值表里hash=IB的哈希值，找到对应前缀 用前缀在文件夹下寻找前缀对应的IB文件 文件名中包换了一个hash值 把这个哈希值扔给MMT 逆向提取mod，1.0.4.7是目前最新版本的一个社区版。
 
 V1.0.9.6版本以上 正常使用 无需以上麻烦操作有手就行 请直接去赞助作者获取
+
+这是上古年代的澪然mod制作教程
+
+谢谢你能关注我！[黑发喵娘Mio_喜欢]以下是澪然制作的mod（链接持续更新）[黑发喵娘Mio_打call]
+
+原神：https://wwti.lanzouj.com/b042cunzc 密码:lr1112
+
+崩坏三：https://wwti.lanzouj.com/b042cumkb 密码:lr1112
+
+星穹铁道：https://wwti.lanzouj.com/b042cuo1e 密码:lr1112
+
+MOD制作教程链接：新整合的原神MOD教程星铁通用https://pan.baidu.com/s/1LtSZFXMPWjPE4XeppUr9Wg?pwd=1112 
+提取码：1112
+
+文件夹里面很多杂货以及我练习时候制作的MOD所有质量跟抽盲盒一样。[黑发喵娘Mio_诶嘿]
