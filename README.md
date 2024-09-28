@@ -1,8 +1,8 @@
-#3dmigoto_mod_development
+3dmigoto_mod_development
 
-##原神 3dmigoto插件的 mod 制作相关储藏库
+原神 3dmigoto插件的 mod 制作相关储藏库
 
-###关于储藏库里的插件详情：
+关于储藏库里的插件详情：
 1.Blender搅拌器 制作mod的软件
 Blender插件1：mmd_tools   用来导入pmx模型，骨骼，权重等相关内容
 Blender插件2：cats-plugin 猫  制作调整材质相关内容
