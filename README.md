@@ -38,8 +38,6 @@ V1.0.9.6版本以上 正常使用 无需以上麻烦操作有手就行 请直接
 
 这是上古年代的澪然mod制作教程
 
-谢谢你能关注我！[黑发喵娘Mio_喜欢]以下是澪然制作的mod（链接持续更新）[黑发喵娘Mio_打call]
-
 原神：https://wwti.lanzouj.com/b042cunzc 密码:lr1112
 
 崩坏三：https://wwti.lanzouj.com/b042cumkb 密码:lr1112
@@ -48,5 +46,3 @@ V1.0.9.6版本以上 正常使用 无需以上麻烦操作有手就行 请直接
 
 MOD制作教程链接：新整合的原神MOD教程星铁通用https://pan.baidu.com/s/1LtSZFXMPWjPE4XeppUr9Wg?pwd=1112 
 提取码：1112
-
-文件夹里面很多杂货以及我练习时候制作的MOD所有质量跟抽盲盒一样。[黑发喵娘Mio_诶嘿]
