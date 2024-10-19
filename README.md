@@ -6,15 +6,17 @@
 
 1.Blender搅拌器 制作mod的软件
 
-Blender插件1：mmd_tools   用来导入pmx模型，骨骼，权重等相关内容
+Blender插件1：mmd_tools   用于导入pmx模型，骨骼，权重等相关内容
 
-Blender插件2：cats-plugin 猫  制作调整材质相关内容
+Blender插件2：cats-plugin 猫  用于制作调整材质相关内容
 
-Blender插件3：material-combiner   用来生成 保存材质包等相关内容
+Blender插件3：material-combiner   用于生成 保存材质包等相关内容
 
-Blender插件4：XXMI Tools 用来快捷导入Blender dump后逆向导出的mod 及相关内容
+Blender插件4：XXMI Tools 用来快捷导入Blender dump后逆向导出的mod 及相关内容 
 
-Blender插件5：blender_3dmigoto_gimi.py Blender中3dmigoto的导入 txt ib vb 的py插件
+Blender插件5：blender_3dmigoto_gimi.py Blender中3dmigoto的导入 txt ib vb 的py插件 直接使用xxmi也行
+
+Blender插件6：Comilarex Tools 用于传递权重 改mod用的最多
 
 插件均在 编辑-偏好设置-插件里直接下载 从磁盘安装即可  mmd—tools可直接通过获取扩展下载最新版本
 
@@ -36,7 +38,7 @@ V1.0.4.7版本 以下 需要在F8 dunp后的文件夹里找到值表,游戏里IB
 
 V1.0.9.6版本以上 正常使用 无需以上麻烦操作有手就行 请直接去赞助作者获取
 
-这是上古年代的澪然mod制作教程
+澪然的上古年代mod制作教程
 
 原神：https://wwti.lanzouj.com/b042cunzc 密码:lr1112
 
